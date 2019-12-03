@@ -1,0 +1,2 @@
+#Heif support in win 10
+Get-AppxPackage -allusers *HEIF*
